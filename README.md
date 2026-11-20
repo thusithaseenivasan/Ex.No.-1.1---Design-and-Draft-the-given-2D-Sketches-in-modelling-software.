@@ -12,37 +12,50 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
   
 ## PROCEDURE
+1.Open up Autodesk Fusion 360 and select New Design.
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+2.Select the XY Plane and select new sketch. 
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+3.Select circle from the Create option .Create the top two concentric circles, with diameters of Ø32mm and Ø20mm
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="558" height="727" alt="Screenshot 2026-11-19 185718" src="https://github.com/user-attachments/assets/f19d8810-f463-43bc-aa10-21ff09775556" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+4.Select circle again and Create the bottom two concentric circles with diameters of Ø20mm and Ø10mm
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="451" height="560" alt="Screenshot 2026-11-11 215900" src="https://github.com/user-attachments/assets/b4d0be41-4349-478d-aaf5-0210fe4279d6" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+5.Create the two side circles with an outside diameter of Ø20mm and an inside diameter of Ø14mm.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+6.Ensure they are both 47mm horizontally from the central vertical line.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+7.Draw circles of dimensions Ø128mm and Ø40mm.Use tangent option under constraints to connect the 
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+<img width="875" height="592" alt="Screenshot 2026-11-19 185735" src="https://github.com/user-attachments/assets/43cfad38-1d9e-4792-a155-e8b9daaa14f0" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+8.Use trim option under modify to trim out the excess to get the curves.
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+<img width="808" height="533" alt="Screenshot 2026-11-19 185747" src="https://github.com/user-attachments/assets/f4e3d83d-2e4b-486a-bf54-0e4a234d9868" />
 
+9.Add the vertical dimensions of 65mm, 50mm and 24mm using the Sketch Dimension tool.
 
-## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+10.Using the Mirror tool under create and Trim tool complete your 2D profile.
+<img width="921" height="740" alt="Screenshot 2026-11-19 185803" src="https://github.com/user-attachments/assets/2cdb91f4-b002-417b-abbd-34b21ef7dd72" />
 
-## OUTPUT
+10.Check all the dimensions are correct. Ensure the outer profile is fully enclosed and click Finish Sketch.  
 
+<img width="192" height="290" alt="Screenshot 2026-11-19 185815" src="https://github.com/user-attachments/assets/f1bb0134-b2cf-4bc5-bd62-fd08cf2e81f1" />
+11.Click Create then Extrude. Select your enclosed profile
+
+<img width="697" height="850" alt="Screenshot 2026-11-19 185851 - Copy" src="https://github.com/user-attachments/assets/9c9581aa-8cf7-48cb-abb1-92a9e1b51d63" />
+
+12.Type in your desired thickness and click OK. This will create your 3D model from your 2D sketch. 
+13.Save your design. 
+##SKETCHES
+<img width="581" height="547" alt="Screenshot 2026-11-11 213805" src="https://github.com/user-attachments/assets/a04e80f3-9c84-48ff-ade4-95338d577786" />
+
+<img width="980" height="611" alt="Screenshot 2026-11-19 185927" src="https://github.com/user-attachments/assets/28bd83c9-c093-4b95-bbcc-1e4b3bcd66ac" />
+##OUTPUT
+<img width="893" height="622" alt="Screenshot 2026-11-19 191038" src="https://github.com/user-attachments/assets/0ef55a26-4334-4df1-b8ea-be7de2103466" />
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
